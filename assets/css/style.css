@@ -145,7 +145,7 @@ main{
     padding: 15px 10px;
     cursor: pointer;
     font-size: 1.3rem;
-    width: 1000px;
+    width: 900px;
     position: relative;
 }
 
@@ -157,7 +157,7 @@ main{
     border: 1px solid rgba(0, 0, 0, 0.3);
     padding: 15px 10px;
     background-color: #e9e8e8;
-    width: 1000px;
+    width: 900px;
 }
 
 .tex{

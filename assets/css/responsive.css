@@ -1,6 +1,6 @@
 @media screen and (max-width: 1090px){
     .duvidas h3, .text{
-        width: 600px;
+        width: 550px;
     }
 }
 
@@ -15,7 +15,7 @@
     }
 
     .duvidas h3, .text{
-        width: 600px;
+        width: 450px;
     }
 
     .texto-card{
@@ -35,6 +35,6 @@
     }
 
     .duvidas h3, .text{
-        width: 450px;
+        width: 350px;
     }
 }
