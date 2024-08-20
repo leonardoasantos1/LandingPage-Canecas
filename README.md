@@ -20,6 +20,6 @@ O projeto é composto pelos seguintes arquivos:
 - **CSS3**: Estilização e layout da página, incluindo media queries para responsividade.
 - **JavaScript**: Manipulação do DOM para interatividade.
 
-![Uploading inicio.png…]()
+![inicio](https://github.com/user-attachments/assets/1239a099-ad1a-4d15-b8cd-8b26f594ba74)
 
 
