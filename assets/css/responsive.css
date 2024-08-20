@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px){
+
+    #container-principal div{
+        width: 550px;;
+    }
+
+    .duvidas h3, .text{
+        width: 600px;
+    }
+
+    .texto-card{
+        margin: 0px 100px;
+    }
+
+    #imagem-principal{
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 600px){
+
+    #container-principal div{
+        width: 350px;;
+    }
+
+    .duvidas h3, .text{
+        width: 450px;
+    }
+}
