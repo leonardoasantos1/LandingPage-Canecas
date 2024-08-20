@@ -1,7 +1,18 @@
+@media screen and (max-width: 1090px){
+    .duvidas h3, .text{
+        width: 700px;
+    }
+}
+
+
 @media screen and (max-width: 768px){
 
+    #container-principal div h1{
+        font-size: 2.5rem;
+    }
+
     #container-principal div{
-        width: 550px;;
+        width: 550px;
     }
 
     .duvidas h3, .text{
@@ -18,10 +29,10 @@
     }
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 650px){
 
     #container-principal div{
-        width: 350px;;
+        width: 350px;
     }
 
     .duvidas h3, .text{
